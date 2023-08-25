@@ -1,0 +1,14 @@
+{
+    "name": "ammardev/json-http-client",
+    "description": "A package for sending HTTP requests (A Tutorial Example)",
+    "authors": [
+        {
+            "name": "Ammar Al-Khawaldeh",
+            "email": "me@ammar.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"AmmarDev\\HttpClient\\": "src/"}
+    },
+    "require": {}
+}
